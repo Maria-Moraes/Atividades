@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\bin\Debug\net8.0\Vetor.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\bin\Debug\net8.0\Vetor.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\bin\Debug\net8.0\Vetor.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\bin\Debug\net8.0\Vetor.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\bin\Debug\net8.0\Vetor.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\refint\Vetor.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\Vetor.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Vetor\Vetor\obj\Debug\net8.0\ref\Vetor.dll

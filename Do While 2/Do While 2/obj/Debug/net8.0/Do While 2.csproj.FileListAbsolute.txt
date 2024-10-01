@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\bin\Debug\net8.0\Do While 2.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\bin\Debug\net8.0\Do While 2.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\bin\Debug\net8.0\Do While 2.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\bin\Debug\net8.0\Do While 2.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\bin\Debug\net8.0\Do While 2.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\refint\Do While 2.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\Do While 2.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades-BackEnd\Do While 2\Do While 2\obj\Debug\net8.0\ref\Do While 2.dll
